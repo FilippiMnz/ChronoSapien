@@ -1,0 +1,15 @@
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/Cronosapiens.csproj.AssemblyReference.cache
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/Cronosapiens.GeneratedMSBuildEditorConfig.editorconfig
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/Cronosapiens.AssemblyInfoInputs.cache
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/Cronosapiens.AssemblyInfo.cs
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/Cronosapiens.csproj.CoreCompileInputs.cache
+/home/lipin-dev/projetos-C#/Cronosapiens/bin/Debug/net6.0/Cronosapiens
+/home/lipin-dev/projetos-C#/Cronosapiens/bin/Debug/net6.0/Cronosapiens.deps.json
+/home/lipin-dev/projetos-C#/Cronosapiens/bin/Debug/net6.0/Cronosapiens.runtimeconfig.json
+/home/lipin-dev/projetos-C#/Cronosapiens/bin/Debug/net6.0/Cronosapiens.dll
+/home/lipin-dev/projetos-C#/Cronosapiens/bin/Debug/net6.0/Cronosapiens.pdb
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/Cronosapiens.dll
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/refint/Cronosapiens.dll
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/Cronosapiens.pdb
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/Cronosapiens.genruntimeconfig.cache
+/home/lipin-dev/projetos-C#/Cronosapiens/obj/Debug/net6.0/ref/Cronosapiens.dll
